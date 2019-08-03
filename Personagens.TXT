@@ -4,4 +4,9 @@ pantera Negra
 Senhor Das Estrelas
 Miranha
 Feiticeira escalarte
+<<<<<<< HEAD
 Sasuke
+=======
+Naruto
+Sasukes
+>>>>>>> e76db68c648e0ffb234f9f103ff99fa18ac770ee
