@@ -12,3 +12,4 @@ Matio Brows
 Ravena
 Sonic
 Mutano
+Kratos
