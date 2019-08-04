@@ -13,3 +13,4 @@ Ravena
 Sonic
 Mutano
 Kratos
+Kratos 2
