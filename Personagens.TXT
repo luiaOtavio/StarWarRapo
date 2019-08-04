@@ -14,3 +14,6 @@ Sonic
 Mutano
 Kratos
 Kratos 2
+
+Jason
+Freddy
